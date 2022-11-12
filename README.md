@@ -17,7 +17,10 @@ XR Developer. Loves coding and learning new stuff, excited about new technology,
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 
 
 
@@ -25,6 +28,12 @@ XR Developer. Loves coding and learning new stuff, excited about new technology,
 <br />
 
 <!--
+blender-original.svg
+
+csharp-original.svg 
+
+figma-original.svg 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
