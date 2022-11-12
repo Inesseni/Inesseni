@@ -1,7 +1,5 @@
 # Hi there, I'm Ines 👋
 
-
-### TLDR: 
 XR Developer. Loves coding and learning new stuff, excited about new technology, immersive media and games!
 
 
