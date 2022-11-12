@@ -3,7 +3,7 @@
 XR Developer. Loves coding and learning new stuff, excited about new technology, immersive media and games!
 
 
-- 🔭 I’m currently working on a React Native childrens' Storybook
+- 🔭 I’m currently working on a React Native childrens' book
 - 🌱 I’m currently learning React Native, Three.js and WebXR
 - 😄 Developed several VR and AR applications with Unity
 - ⚡ Fun fact: I pubished a game with my friend Robing Gerndt: Purry Furry Adventurry on Steam!
