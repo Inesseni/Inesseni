@@ -12,11 +12,10 @@ XR Developer. Loves coding and learning new stuff, excited about new technology 
 ### Latest Success:
 
 <!--START_SECTION:activity-->
-1. 🎉 Finished my first React Web App [React Web App](https://github.com/Inesseni/YogaApp)
-2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+1. 🎉 Finished my first [React Web App](https://github.com/Inesseni/YogaApp)
+2. 🎉 Created a very cute Design for the [React native childrens' book](https://github.com/Inesseni/Storybook)
+3. 🎉 Created a small introduction ReadMe.md for my Github page :)
+
 <!--END_SECTION:activity-->
 
 
