@@ -7,18 +7,12 @@ XR Developer. Loves coding and learning new stuff, excited about technology like
 - 🌱 learning React Native, Three.js and WebXR.
 - 😄 Developed several VR and AR applications with Unity.
 - ⚡ Fun fact: I published a game with my friend Robing Gerndt: [Purry Furry Adventurry](https://store.steampowered.com/app/1654710/Purry_Furry_Adventurry/)
-<br />
+
 
 ### Latest Success:
-
-<!--START_SECTION:activity-->
 1. 🎉 Finished my first [React Web App](https://github.com/Inesseni/YogaApp)
 2. 🎉 Styled cute components for the [React native childrens' book](https://github.com/Inesseni/Storybook)
 3. 🎉 Created a small introduction ReadMe.md for my Github page :)
-
-<!--END_SECTION:activity-->
-
-
 
 
 
