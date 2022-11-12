@@ -1,6 +1,6 @@
 # Hi there, I'm Ines 👋
 
-XR Developer. Loves coding and learning new stuff, excited about new technology, immersive media and games!
+XR Developer. Loves coding and learning new stuff, excited about new technology like VR, AR and making games!
 
 
 - 🔭 I’m currently working on a React Native childrens' book
@@ -28,11 +28,7 @@ XR Developer. Loves coding and learning new stuff, excited about new technology,
 <br />
 
 <!--
-blender-original.svg
 
-csharp-original.svg 
-
-figma-original.svg 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
