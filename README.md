@@ -3,11 +3,14 @@
 
 ### Connect with me:
 
+<a href=”https://www.linkedin.com/in/ines-hilz/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+
+[![website](./img/youtube-light.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCD7E1Iy8RkSsYPheoQ-qa6w)#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCD7E1Iy8RkSsYPheoQ-qa6w)#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
