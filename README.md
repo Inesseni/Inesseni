@@ -1,6 +1,6 @@
 # Hi there, I'm Ines 👋
 
-
+## TLDR: Loves coding and learning new stuff, excited about new technology, immersive media and games!
 
 ### Languages and Tools:
 
