@@ -12,7 +12,8 @@ XR Developer. Loves coding and learning new stuff, excited about technology like
 ### Latest Success:
 1. 🎉 Finished my first [React Web App](https://github.com/Inesseni/YogaApp)
 2. 🎉 Styled cute components for the [React native childrens' book](https://github.com/Inesseni/Storybook)
-3. 🎉 Created a small introduction ReadMe.md for my Github page :)
+3. 🎉 Developed a VR Installation for TheBarin8 [On a marché sur la terre](https://ineshilz.myportfolio.com/marche-sur-la-terre)
+4. 🎉 Created a small introduction ReadMe.md for my Github page :)
 
 
 
