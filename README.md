@@ -1,9 +1,16 @@
 # Hi there, I'm Ines 👋
 
+
 ### TLDR: 
-Loves coding and learning new stuff, excited about new technology, immersive media and games!
+XR Developer. Loves coding and learning new stuff, excited about new technology, immersive media and games!
 
 
+- 🔭 I’m currently working on a React Native childrens' Storybook
+- 🌱 I’m currently learning React Native, Three.js and WebXR
+- 😄 Developed several VR and AR applications with Unity
+- ⚡ Fun fact: I pubished a game with my friend Robing Gerndt: Purry Furry Adventurry on Steam!
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -40,15 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
