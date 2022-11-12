@@ -1,19 +1,19 @@
 # Hi there, I'm Ines 👋
 
-XR Developer. Loves coding and learning new stuff, excited about new technology like VR, AR and making games!
+XR Developer. Loves coding and learning new stuff, excited about technology like VR, AR and making games!
 
 
-- 🔭 I’m currently working on a React Native childrens' book
-- 🌱 I’m currently learning React Native, Three.js and WebXR
-- 😄 Developed several VR and AR applications with Unity
-- ⚡ Fun fact: I pubished a game with my friend Robing Gerndt: Purry Furry Adventurry on Steam!
+- 🔭 I'm currently working on a React Native childrens' book and
+- 🌱 learning React Native, Three.js and WebXR.
+- 😄 Developed several VR and AR applications with Unity.
+- ⚡ Fun fact: I published a game with my friend Robing Gerndt: [Purry Furry Adventurry](https://store.steampowered.com/app/1654710/Purry_Furry_Adventurry/)
 <br />
 
 ### Latest Success:
 
 <!--START_SECTION:activity-->
 1. 🎉 Finished my first [React Web App](https://github.com/Inesseni/YogaApp)
-2. 🎉 Created a very cute Design for the [React native childrens' book](https://github.com/Inesseni/Storybook)
+2. 🎉 Styled cute components for the [React native childrens' book](https://github.com/Inesseni/Storybook)
 3. 🎉 Created a small introduction ReadMe.md for my Github page :)
 
 <!--END_SECTION:activity-->
