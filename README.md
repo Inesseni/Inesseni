@@ -9,10 +9,8 @@ XR Developer. Loves coding and learning new stuff, excited about new technology 
 - ⚡ Fun fact: I pubished a game with my friend Robing Gerndt: Purry Furry Adventurry on Steam!
 <br />
 
-### Latest Repos:
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+### Latest Success:
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
@@ -21,7 +19,7 @@ XR Developer. Loves coding and learning new stuff, excited about new technology 
 5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
 <!--END_SECTION:activity-->
 
-</details>
+
 
 
 
