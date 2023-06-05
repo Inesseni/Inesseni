@@ -4,16 +4,16 @@ XR Developer. Loves coding and learning new stuff, excited about technology like
 
 
 - 🔭 I'm currently working on a React Native childrens' book and
-- 🌱 learning React Native, Three.js and WebXR.
+- 🌱 learning React Native and Three.js
 - 😄 Developed several VR and AR applications with Unity.
 - ⚡ Fun fact: I published a game with my friend Robing Gerndt: [Purry Furry Adventurry](https://store.steampowered.com/app/1654710/Purry_Furry_Adventurry/)
 
 
 ### Latest Success:
-1. 🎉 Finished my first [React Web App](https://github.com/Inesseni/YogaApp)
-2. 🎉 Styled cute components for the [React native childrens' book](https://github.com/Inesseni/Storybook)
-3. 🎉 Developed a VR Installation for TheBarin8 [On a marché sur la terre](https://ineshilz.myportfolio.com/marche-sur-la-terre)
-4. 🎉 Created a small introduction ReadMe.md for my Github page :)
+1. 🎉 Created a [playful interactive CV](https://github.com/Inesseni/Skilltree_ReactFlow) with React!
+2. 🎉 Finished my first [React Web App](https://github.com/Inesseni/YogaApp)
+3. 🎉 Styled cute components for the [React native childrens' book](https://github.com/Inesseni/Storybook)
+4. 🎉 Developed a VR Installation for TheBarin8 [On a marché sur la terre](https://ineshilz.myportfolio.com/marche-sur-la-terre)
 
 
 
